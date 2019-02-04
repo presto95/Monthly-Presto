@@ -1,4 +1,4 @@
 # 月刊 Presto
 
-**Presto's Retrospection**
+**Presto's Retrospective**
 
